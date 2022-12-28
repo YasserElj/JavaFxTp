@@ -9,8 +9,7 @@
             prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
             fx:controller="ma.enset.tpjdbc.presentation.controllers.CategorieController">
     <top>
-        <GridPane alignment="CENTER" nodeOrientation="LEFT_TO_RIGHT" style="-fx-background-color: #ca98ff;"
-                  BorderPane.alignment="CENTER">
+        <GridPane alignment="CENTER" nodeOrientation="LEFT_TO_RIGHT" BorderPane.alignment="CENTER">
             <columnConstraints>
                 <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0"/>
                 <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0"/>
